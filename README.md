@@ -1,2 +1,4 @@
 # Stars-and-Sea
-Accumulation for study experience.
+积累学习经验。
+# Python学习记录
+本项目用于记录从运维转向开发的第一步-编程语言学习，希望能完成365天挑战
